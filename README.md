@@ -21,7 +21,7 @@ The dataset used for this analysis can be found [here](https://www.kaggle.com/da
 You can clone this repository to your local machine and run the Jupyter Notebook to perform the EDA. Make sure you have the required Python libraries installed.
 
 ```bash
-git clone https://github.com/HloHarshit/Youtube-Python-EDA.git
+git clone https://github.com/hiharshit/Youtube-Python-EDA.git
 cd Youtube-Python-EDA
 jupyter notebook youtube.ipynb
 ```
